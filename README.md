@@ -16,6 +16,8 @@
   <img src="https://iconape.com/wp-content/files/kr/371166/svg/371166.svg" alt="NestJS" width="50" height="50"/>
   <img src="https://img.icons8.com/color/344/typescript.png" alt="TypeScript" width="50" height="50"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/docker-13-1175230.png" alt="Docker" width="50" height="50"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-6-569582.png" alt="NodeJS" width="50" height="50"/>
+  
   
   <a href="https://marlinfw.org/" target="blank">
     <img src="https://www.vhv.rs/dpng/d/590-5903037_logo-marlin-3d-printer-hd-png-download.png" alt="Marlin" width="50" height="50"/>
