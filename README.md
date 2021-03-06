@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, JavaScript, TypeScript, NestJs, Angular, Python, Docker and Kubernetes.
 - 💬 Ask me about Java, Typescript/Javascript or Electronics
 - 📫 How to reach me: aml360esp@gmail.com
-- 📫 My new webpage is: www.amli360.com
+- 📫 My new webpage is: www.amli360.com (Currently offline because have no internet at home :( )
 
 ## Some Tech Skills
 <p align="center">
