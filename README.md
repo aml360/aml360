@@ -1,7 +1,8 @@
 ### Welcome to my profile 👋
 
 - 🔭 I’m currently working on IACS <https://is.gd/J8kK9p>
-- 🌱 I’m currently learning Rust <img src="./img/ferris-pacman.png" alt="crab" style="width: 1.1rem; height: 1rem;" />, TypeScript, NestJs, Angular.
+
+- 🌱 I’m currently learning Rust <img src="./img/ferris-pacman.png" alt="crab" />, TypeScript, NestJs, Angular.
 - 📫 My webpage is: amli360.com (Had to finish it)
   
 
