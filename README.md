@@ -1,10 +1,8 @@
 ### Welcome to my profile 👋
 
-- 🔭 I’m currently working on IACS https://is.gd/J8kK9p
-- 🌱 I’m currently learning TypeScript, NestJs, Angular, Docker and Kubernetes.
-- 💬 Ask me about Java, Typescript/Javascript or Electronics
-- 📫 How to reach me: aml360esp@gmail.com
-- 📫 My new webpage is: www.amli360.com (Had to finish it)
+- 🔭 I’m currently working on IACS <https://is.gd/J8kK9p>
+- 🌱 I’m currently learning Rust 🦀, TypeScript, NestJs, Angular.
+- 📫 My webpage is: amli360.com (Had to finish it)
 
 ## Some Tech Skills
 <p align="center">
