@@ -1,10 +1,12 @@
 ### Welcome to my profile 👋
 
 - 🔭 I’m currently working on IACS <https://is.gd/J8kK9p>
-- 🌱 I’m currently learning Rust 🦀, TypeScript, NestJs, Angular.
+- 🌱 I’m currently learning Rust <img src="./img/ferris-pacman.png" alt="crab" style="width: 1.1rem; height: 1rem;" />, TypeScript, NestJs, Angular.
 - 📫 My webpage is: amli360.com (Had to finish it)
+  
 
 ## Some Tech Skills
+
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
