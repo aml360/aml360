@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-- 🔭 I’m currently working on IACS <https://is.gd/J8kK9p>
+- 🔭 I’m currently unemployed
 
 - 🌱 I’m currently learning Rust <img src="./img/ferris-pacman.png" alt="crab" />, TypeScript, NestJs, Angular.
 - 📫 My webpage is: [amli360.com](https://amli360.com) (Had to finish it)
@@ -25,6 +25,3 @@
   </a>
  
 </p>
-<!--
-**aml360/aml360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
