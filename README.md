@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-- 🔭 I’m currently unemployed
+- 🔭 I’m currently working at Origen Studio.
 
 - 🌱 I’m currently learning Rust <img src="./img/ferris-pacman.png" alt="crab" />, TypeScript, NestJs, Angular.
 - 📫 My webpage is: [amli360.com](https://amli360.com) (Had to finish it)
