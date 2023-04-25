@@ -1,27 +1,17 @@
 ### Welcome to my profile 👋
 
+<!-- TODO: Describe my personality as a developer -->
+
 - 🔭 I’m currently working at Origen Studio.
 
-- 🌱 I’m currently learning Rust <img src="./img/ferris-pacman.png" alt="crab" />, TypeScript, NestJs, Angular.
-- 📫 My webpage is: [amli360.com](https://amli360.com) (Had to finish it)
-  
+- 🌱 Continuously improving my skills in Rust, Typescript and C.
 
-## Some Tech Skills
+- 🌐 Visit my personal website: [amli360.com](https://amli360.com) (work in progress)
 
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="postgreSQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
-  <img src="https://iconape.com/wp-content/files/kr/371166/svg/371166.svg" alt="NestJS" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/344/typescript.png" alt="TypeScript" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/docker-13-1175230.png" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-6-569582.png" alt="NodeJS" width="50" height="50"/>
-  
-  
-  <a href="https://marlinfw.org/" target="blank">
-    <img src="https://www.vhv.rs/dpng/d/590-5903037_logo-marlin-3d-printer-hd-png-download.png" alt="Marlin" width="50" height="50"/>
-  </a>
- 
-</p>
+<!-- TODO: Add list of IT interest, knowledge, programming languages and libraries/frameworks -->
+
+## Hobbies and Interests
+
+🖨️ 3D Printing: Gained knowledge and experience with tools like FreeCAD and Tinkercad. I own and operate an Anet A8 and a custom-built Hypercube Evolution.
+
+📸 Photography: Learned to capture and edit images with Lightroom, Photoshop, Darktable, and Premiere. Enjoy exploring new creative techniques and styles.
