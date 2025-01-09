@@ -1,43 +1,33 @@
 ### Hi there 👋, I'm Adrián Molina López
 
-I'm a Fullstack Developer currently working at [Minimum](https://www.minimum.run/) as a Backend developer, with experience in various languages and frameworks such as Rust, TypeScript, C, and more. I continuously improve my skills and look forward to working on challenging projects that can make a difference.
+I'm a Senior Fullstack Developer currently working at Tailor Hub. While I prefer backend development, I am equally comfortable handling front-end tasks. I have expertise in optimizing performance, managing complex data systems, and developing robust backend solutions. I thrive on simplifying complex systems and delivering high-quality, maintainable code.
 
 #### A bit about me...
 
-- 🏠 Zaragoza, Spain is my home town. Born and raised.
-
-- 🎂 I was born on May 27th, 2000.
-
-- 📫 You can reach me at: aml360esp@gmail.com
-
-- 🌐 And do not forget to visit my personal website: [amli360.com](https://amli360.com) (work in progress)
+- 🏠 Temporarily based in Albal, Valencia, Spain, but born in and planning to return to Zaragoza.
+- 🎂 Born on May 27th, 2000.
+- 📫 Reach me at: [aml360esp@gmail.com](mailto\:aml360esp@gmail.com)
+- 🌐 Connect with me on LinkedIn: [Adrián Molina López](https://www.linkedin.com/in/amolinalopez/)
 
 #### My top hard skills...
 
-- **Programming Languages:** Rust, TypeScript/Javascript, C and Java
-- **Frameworks/Libraries:** React.js, Angular, Node.js, NestJS.
-- **Other Tech:** Docker, Git, MongoDB, Redis, SQLite, PostgreSQL, Linux, and more.
+- **Programming Languages:** Rust, TypeScript/JavaScript, Python, C, Go.
+- **Frameworks/Libraries:** NestJS, React.js, Angular, Node.js, Next.js, Jotai.
+- **Other Tech:** Docker, Git, PostgreSQL, RabbitMQ, Prisma, Tailwind CSS, Linux, and more.
+- **DevOps Tools:** GitHub Actions, GitLab CI, Qovery, Kubernetes basics, and Asana for project management.
+- **Databases:** PostgreSQL, Redis, Snowflake.
+- **Front-end Philosophy:** I enjoy exploring innovative approaches, such as the signals model in SolidJS, which aligns with my interest in efficient state management.
 
-#### You can check out some of the projects I've worked on:
+#### Notable Projects
 
-- [Competencias](https://github.com/iacs-biocomp/competencias): Led the development of an application that enables peer-to-peer evaluations of employees within a company. I decided to use Typescript and the NestJs and Angular frameworks.
+- [Competencias](https://github.com/iacs-biocomp/competencias): Led the development of an application enabling peer-to-peer evaluations of employees within a company using TypeScript, NestJS, and Angular.
+- [gitstat-rs](https://github.com/aml360/gitstat-rs): A Rust-based rewrite of Gitstat using parallel computing techniques for improved performance.
+- [rust-practices](https://github.com/aml360/rust_practices): A repository where I practiced advanced Rust features, including borrowing mechanics, unsafe code, FFI examples, and compiler optimizations (e.g., stack usage optimization by managing variable scopes, visualized using Godbolt). It also includes examples for OOP-like patterns, traits, and advanced memory handling such as forced deallocation and segmentation faults. Additionally, it features examples using older versions of napi-rs, as I am exploring how Rust can be used to enhance languages like Python and JavaScript.
 
-- [gitstat-rs](https://github.com/aml360/gitstat-rs): A rewrite of the Gitstat program in Rust, using parallel computing techniques to improve execution speed.
+#### My Philosophy as a Developer
 
-- [rust-practices](https://github.com/aml360/rust_practices): This project serves as a straightforward showcase of Rust's advanced and unique features.
+I focus on continuous improvement, efficient problem-solving, and delivering scalable solutions. My adaptable mindset helps me embrace new challenges and learn constantly.
 
-#### My Personality as a developer...
+#### Beyond Coding
 
-I have an adaptable mindset, I'm always open to more effective ways of doing things, constantly prioritizing learning and growth over ego.
-
-#### What Keeps Me Updated...
-
-To stay up-to-date and keep advancing my skills, I prefer self-learning methods. Although I find educational YouTube videos helpful, I've been gradually shifting towards reading more as my technical proficiency has grown.
-
-#### When I am not coding...
-
-- 🖨️ I like to indulge myself in 3D Printing. I operate an Anet A8 and a custom-built Hypercube Evolution.
-
-- 📸 Photography is another hobby of mine. I love to capture and edit images exploring new creative techniques and styles.
-
-- 🧗‍♂️ I also enjoy climbing and bouldering. I've been practicing for a few months now, and I'm loving it!
+I am driven by a deep passion for knowledge and continuous self-improvement. I enjoy bouldering and cycling. I competed in cycling for five years, achieving the title of Regional Youth Champion in Aragón, as showcased in [this link](https://aragonciclismo.com/es/smartweb/seccion/noticia/aragon/Campeonatos-Aragon/12261-Adrian-Molina-Ecotisa-Goerna-Campeon-de-Aragon-en-Villatuerta). I also find great satisfaction in building things, from DIY projects to digital tools, reflecting my innate curiosity about how things work. Embracing a minimalist lifestyle, I strive to simplify and prioritize what truly adds value, both personally and professionally.
